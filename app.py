@@ -1,4 +1,4 @@
-# 🔧 Monkey patch for Streamlit + torch.classes
+# Monkey patch for Streamlit + torch.classes
 import sys, types, os
 torch_classes_patch = types.SimpleNamespace()
 torch_classes_patch.__path__ = []
