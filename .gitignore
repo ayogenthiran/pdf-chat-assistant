@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables and secrets
+.env
+
+# Streamlit temp files & logs
+.history/
+.streamlit/
+.temp.pdf
+
+# VSCode & IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python wheel cache
+*.whl
+pip-wheel-metadata/
+
+# Test coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+
+# Other log and output files
+*.log
+*.out
+*.bak
